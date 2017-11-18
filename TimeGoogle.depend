@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510768185 source:d:\users\starvinmarvin\desktop\unsent github code\timegoogle\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<set>
+	<stdio.h>
+	<string.h>
+	<sstream>
+
